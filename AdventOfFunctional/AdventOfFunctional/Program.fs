@@ -27,8 +27,12 @@ module day1=
 
 module day2=
     let day2_1() =
-
-    0
+        File.ReadAllLines("Day1.txt")
+        |> Array.forall(fun x->x 
+        //|> Seq.groupBy(fun c->c)
+        //|> Seq.where (fun y->(Array.length y)==2))
+        //|> printfn "Day 1 Part 2  %i"
+        0
 
 
 
