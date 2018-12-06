@@ -1,0 +1,9 @@
+C:\Dropbox\Github\FunctionalFuckery\FunctionalFuckery\bin\Debug\netcoreapp2.1\FunctionalFuckery.deps.json
+C:\Dropbox\Github\FunctionalFuckery\FunctionalFuckery\bin\Debug\netcoreapp2.1\FunctionalFuckery.runtimeconfig.json
+C:\Dropbox\Github\FunctionalFuckery\FunctionalFuckery\bin\Debug\netcoreapp2.1\FunctionalFuckery.runtimeconfig.dev.json
+C:\Dropbox\Github\FunctionalFuckery\FunctionalFuckery\bin\Debug\netcoreapp2.1\FunctionalFuckery.dll
+C:\Dropbox\Github\FunctionalFuckery\FunctionalFuckery\bin\Debug\netcoreapp2.1\FunctionalFuckery.pdb
+C:\Dropbox\Github\FunctionalFuckery\FunctionalFuckery\obj\Debug\netcoreapp2.1\FunctionalFuckery.dll
+C:\Dropbox\Github\FunctionalFuckery\FunctionalFuckery\obj\Debug\netcoreapp2.1\FunctionalFuckery.pdb
+C:\Dropbox\Github\FunctionalFuckery\FunctionalFuckery\bin\Debug\netcoreapp2.1\Day1.txt
+C:\Dropbox\Github\FunctionalFuckery\FunctionalFuckery\obj\Debug\netcoreapp2.1\FunctionalFuckery.fsprojAssemblyReference.cache
