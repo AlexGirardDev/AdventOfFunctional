@@ -25,20 +25,17 @@ module day1=
         looping(0,[|0|],File.ReadAllLines("Day1.txt")|> Array.map(fun x-> x |> int),0) 
         |>printfn "Day 1 Part 2  %i"
 
-module day2=
-    let day2_1() =
-        File.ReadAllLines("Day1.txt")
-        |> Array.forall(fun x->x 
-        //|> Seq.groupBy(fun c->c)
-        //|> Seq.where (fun y->(Array.length y)==2))
-        //|> printfn "Day 1 Part 2  %i"
-        0
-
-
-
+//module day2=
+//    let day2_1() =
+//        File.ReadAllLines("Day1.txt")
+//        |> Array.forall(fun x->x 
+//        //|> Seq.groupBy(fun c->c)
+//        //|> Seq.where (fun y->(Array.length y)==2))
+//        //|> printfn "Day 1 Part 2  %i"
+//        0
 
 open day1
-open day2
+//open day2
 
 [<EntryPoint>]
 let main argv =
@@ -47,3 +44,5 @@ let main argv =
 
     System.Console.ReadKey() |> ignore
     0
+
+
